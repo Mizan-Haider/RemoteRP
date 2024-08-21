@@ -19,6 +19,7 @@ public class Demo1 {
 		System.out.println("Mizu");
 				System.out.println("Mizu two");
 				System.out.println("Empl1");
+		System.out.println("Empl1");
 	}
 
 }
