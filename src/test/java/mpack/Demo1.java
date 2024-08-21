@@ -17,6 +17,7 @@ public class Demo1 {
 		driver.manage().window().maximize();
 		
 		System.out.println("Mizu");
+				System.out.println("Mizu two");
 	}
 
 }
