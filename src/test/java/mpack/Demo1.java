@@ -16,7 +16,7 @@ public class Demo1 {
 		driver.get("http://omayo.blogspot.com");
 		driver.manage().window().maximize();
 		
-
+		System.out.println("Mizu");
 	}
 
 }
